@@ -1,0 +1,2 @@
+the file path for the input file has to be given as a whole
+for eg: C:\sphere.128
